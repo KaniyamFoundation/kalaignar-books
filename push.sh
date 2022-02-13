@@ -1,4 +1,4 @@
 #!/bin/sh
-
-git push origin master
-git push origin master:gh-pages
+git add .
+git commit -m "UI Updatge"
+git push origin main
