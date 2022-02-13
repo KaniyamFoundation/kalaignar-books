@@ -52,9 +52,19 @@
     </div>
 
     <div class="container">
+        <div class="row">
+            <div class="span12 row-fluid">
+                <p style="margin-top: 20px;">நூல்கள்:</p>
+                <ul id="filterBy">
+                    <li><a href="#" data-level="any" class="active" title="filter books by All">எல்லா நூல்களும்</a></li>
+                    <li><a href="#" data-level="கவிதை" title="filter books by கவிதை">கவிதை</a></li>
+                    <li><a href="#" data-level="கட்டுரை" title="filter books by கட்டுரை">கட்டுரை</a></li>
+                </ul>
+            </div>
+        </div>
+
         <br>
         <br>
-        <!-- ///////// BOOKS -->
         <div class="row" id="issueswrap"></div>
     </div>
 
@@ -158,7 +168,7 @@
             pageTracker._trackPageview();
         } catch (err) { }</script>
 
-        <!-- <script type="text/javascript">
+    <!-- <script type="text/javascript">
             function randOrd() {
                 return (Math.round(Math.random()) - 0.5);
             }
@@ -223,7 +233,7 @@
                 var pageTracker = _gat._getTracker("UA-294393-1");
                 pageTracker._trackPageview();
             } catch (err) { }</script> -->
-    
+
 </body>
 
 </html>
