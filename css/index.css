@@ -1459,7 +1459,7 @@ footer {
   height: 184px;
   font: bold 18px 'Open Sans Condensed', sans-serif;
   line-height: 184px;
-  background-color: rgba(247, 48, 30, 0.2);
+  background-color: rgba(247, 48, 30, 0.5);
   z-index: 10;
   text-align: center;
   color: black;
