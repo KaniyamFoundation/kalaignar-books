@@ -9,7 +9,7 @@
       "url": "https://ia902300.us.archive.org/35/items/dli.rmrl.074126/dli.rmrl.074126.pdf",
       "cover": "./img/samatharma_geethangal.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.074126"
     },
     {
       "title": "ஜீவாவின் பாடல்கள் - பதிப்பு 4",
@@ -20,7 +20,7 @@
       "url": "https://ia804608.us.archive.org/0/items/dli.rmrl.008256/dli.rmrl.008256.pdf",
       "cover": "./img/jeevain_padalgal.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.091799"
     },
     {
       "title": "சுயமரியாதை சொன்மாலை",
@@ -31,7 +31,7 @@
       "url": "https://ia804508.us.archive.org/25/items/dli.rmrl.010894/dli.rmrl.010894.pdf",
       "cover": "./img/senmalai.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.010894"
     },
     {
       "title": "பாரதியை பற்றி ஜீவா - பதிப்பு 4",
@@ -42,7 +42,7 @@
       "url": "https://ia902301.us.archive.org/26/items/dli.rmrl.074745/dli.rmrl.074745.pdf",
       "cover": "./img/baarathiyai_patri_jeeva.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.84680"
     },
     {
       "title": "நான் நாத்தீகன் ஏன்? - பதிப்பு 5",
@@ -53,7 +53,7 @@
       "url": "https://ia902305.us.archive.org/27/items/dli.rmrl.114012/dli.rmrl.114012.pdf",
       "cover": "./img/naan_ean_naathigan.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.114012"
     },
     {
       "title": "சீனாவைப்பார்",
@@ -64,7 +64,7 @@
       "url": "https://ia804504.us.archive.org/7/items/dli.rmrl.025309/dli.rmrl.025309.pdf",
       "cover": "./img/seenavai_paar.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.025309"
     },
     {
       "title": "பாரதி வழி - பதிப்பு 4",
@@ -75,7 +75,7 @@
       "url": "https://ia802300.us.archive.org/23/items/dli.rmrl.076958/dli.rmrl.076958.pdf",
       "cover": "./img/bharathi_vazhi.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.076958"
     },
     {
       "title": "தேவிக்குளம்-பீர்மேடு",
@@ -86,7 +86,7 @@
       "url": "https://ia802302.us.archive.org/33/items/dli.rmrl.003806/dli.rmrl.003806.pdf",
       "cover": "./img/devikulam.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.003806"
     },
     {
       "title": "வர்க்கப் போராட்டம்",
@@ -97,7 +97,7 @@
       "url": "https://ia902305.us.archive.org/29/items/dli.rmrl.009573/dli.rmrl.009573.pdf",
       "cover": "./img/class_struggle.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.009573"
     },
     {
       "title": "பாரதியை பற்றி ஜீவா - பதிப்பு 3",
@@ -108,7 +108,7 @@
       "url": "https://ia804505.us.archive.org/26/items/dli.rmrl.84680/dli.rmrl.84680.pdf",
       "cover": "./img/baarathiyai_patri_jeeva.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.84680"
     },
     {
       "title": "பாரதி வழி - பதிப்பு 1",
@@ -117,9 +117,9 @@
       "level": "கட்டுரை",
       "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
       "url": "https://ia802302.us.archive.org/16/items/dli.rmrl.013364/dli.rmrl.013364.pdf",
-      "cover": "./img/bharathi_vazhi.jpeg",
+      "cover": "./img/baarathi_vazhi.jpeg",
       "tags": ["core"],
-      "archive":""
+      "archive":"https://archive.org/details/dli.rmrl.013364/"
     },
     {
       "title": "இலக்கியச் சுவை - பதிப்பு 1",
