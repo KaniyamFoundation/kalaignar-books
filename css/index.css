@@ -1442,6 +1442,11 @@ footer {
   padding-bottom: 10px;
   overflow: hidden;
 }
+.booksection p.archive {
+  font-size: 10px;
+  line-height: 20px;
+  margin-top: 20px;
+}
 .booksection p.level {
   font-size: 10px;
   margin-bottom: 20px;
