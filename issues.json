@@ -1,312 +1,233 @@
 {
   "books": [
     {
-      "title": "சமதர்ம கீதங்கள்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia902300.us.archive.org/35/items/dli.rmrl.074126/dli.rmrl.074126.pdf",
-      "cover": "./img/samatharma_geethangal.jpeg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.074126"
-    },
-    {
-      "title": "ஜீவாவின் பாடல்கள் - பதிப்பு 4",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804608.us.archive.org/0/items/dli.rmrl.008256/dli.rmrl.008256.pdf",
-      "cover": "./img/jeevain_padalgal.jpeg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.091799"
-    },
-    {
-      "title": "சுயமரியாதை சொன்மாலை",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804508.us.archive.org/25/items/dli.rmrl.010894/dli.rmrl.010894.pdf",
-      "cover": "./img/senmalai.jpeg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.010894"
-    },
-    {
-      "title": "பாரதியை பற்றி ஜீவா - பதிப்பு 4",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "title": "அழகர் கோயில்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia902301.us.archive.org/26/items/dli.rmrl.074745/dli.rmrl.074745.pdf",
-      "cover": "./img/baarathiyai_patri_jeeva.jpeg",
+      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 39.1 MB",
+	"url": "https://archive.org/download/dli.rmrl.123379/dli.rmrl.123379.pdf",
+	"cover": "./img/alagar_koil.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.84680"
+      "archive":"https://archive.org/details/dli.rmrl.123379"
     },
-    {
-      "title": "நான் நாத்தீகன் ஏன்? - பதிப்பு 5",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+
+
+
+      {
+      "title": "தெய்வங்களும் சமூக மரபுகளும்",
+      "author": "தொ. பரமசிவன்",
+       "authorUrl": "https://ta.wikipedia.org/s/wif", 
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia902305.us.archive.org/27/items/dli.rmrl.114012/dli.rmrl.114012.pdf",
-      "cover": "./img/naan_ean_naathigan.jpeg",
+      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 11 MB",
+      "url": "https://archive.org/download/dli.rmrl.127539/dli.rmrl.127539.pdf",
+      "cover": "./img/teyvankalum-camuka-marapukalum.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.114012"
-    },
-    {
-      "title": "சீனாவைப்பார்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/dli.rmrl.127539"
+      },
+
+
+
+      {
+      "title": "அறியப்படாத தமிழகம்",
+      "author": "தொ. பரமசிவன்",
+       "authorUrl": "https://ta.wikipedia.org/s/wif", 
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804504.us.archive.org/7/items/dli.rmrl.025309/dli.rmrl.025309.pdf",
-      "cover": "./img/seenavai_paar.jpeg",
+      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 1.9 MB",
+      "url": "https://archive.org/download/20220901_20220901_1132/%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BE%E0%AE%A4_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/ariyapadatha_tamilagam.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.025309"
-    },
-    {
-      "title": "பாரதி வழி - பதிப்பு 4",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1132"
+      },
+       
+
+      {
+      "title": "விடுபூக்கள்",
+      "author": "தொ. பரமசிவன்",
+       "authorUrl": "https://ta.wikipedia.org/s/wif", 
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802300.us.archive.org/23/items/dli.rmrl.076958/dli.rmrl.076958.pdf",
-      "cover": "./img/bharathi_vazhi.jpeg",
+      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 8.7 MB",
+      "url": "https://archive.org/download/dli.rmrl.123158/dli.rmrl.123158.pdf",
+      "cover": "./img/vidupookkal.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.076958"
-    },
-    {
-      "title": "தேவிக்குளம்-பீர்மேடு",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/dli.rmrl.123158"
+      },
+
+	  
+      
+      {
+      "title": "சமயங்களின் அரசியல்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802302.us.archive.org/33/items/dli.rmrl.003806/dli.rmrl.003806.pdf",
-      "cover": "./img/devikulam.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 17.3 MB",
+	  "url": "https://archive.org/download/dli.rmrl.130048/dli.rmrl.130048.pdf",
+      "cover": "./img/samayangalin-arasiyal.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.003806"
-    },
-    {
-      "title": "வர்க்கப் போராட்டம்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/dli.rmrl.130048"
+      },
+
+
+      {
+      "title": "பண்பாட்டு அசைவுகள்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia902305.us.archive.org/29/items/dli.rmrl.009573/dli.rmrl.009573.pdf",
-      "cover": "./img/class_struggle.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 32 MB",
+	  "url": "https://archive.org/download/20220901_20220901_1031/%E0%AE%AA%E0%AE%A3%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%85%E0%AE%9A%E0%AF%88%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/panbattu-asaivugal.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.009573"
-    },
-    {
-      "title": "பாரதியை பற்றி ஜீவா - பதிப்பு 3",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1031"
+      },
+      
+
+      {
+      "title": "மானுட வாசிப்பு",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804505.us.archive.org/26/items/dli.rmrl.84680/dli.rmrl.84680.pdf",
-      "cover": "./img/baarathiyai_patri_jeeva.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 58.3 MB",
+	  "url": "https://archive.org/download/20220901_20220901_1128/%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AF%81%E0%AE%9F_%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/maanuda_vassippu.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.84680"
-    },
-    {
-      "title": "பாரதி வழி - பதிப்பு 1",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1128"
+      },
+
+      {
+      "title": "மஞ்சள் மகிமை",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802302.us.archive.org/16/items/dli.rmrl.013364/dli.rmrl.013364.pdf",
-      "cover": "./img/baarathi_vazhi.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.1 MB",
+	  "url": "https://archive.org/download/20220901_20220901_0947/%E0%AE%AE%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%B3%E0%AF%8D_%E0%AE%AE%E0%AE%95%E0%AE%BF%E0%AE%AE%E0%AF%88_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/manjal_magimai.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.013364/"
-    },
-    {
-      "title": "இலக்கியச் சுவை - பதிப்பு 1",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_0947"
+      },
+
+      {
+      "title": "இதுவே சனநாயகம்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia904508.us.archive.org/26/items/dli.rmrl.062764/dli.rmrl.062764.pdf",
-      "cover": "./img/ilakkiya_suvai.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.8 MB",
+	  "url": "https://archive.org/download/20220901_20220901_0956/%E0%AE%87%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AF%87_%E0%AE%9A%E0%AE%A9%E0%AE%A8%E0%AE%BE%E0%AE%AF%E0%AE%95%E0%AE%AE%E0%AF%8D%21_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/ithuve_sananayagam.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "இலக்கியச் சுவை - பதிப்பு 3",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_0956"
+      },
+
+      {
+      "title": "பாளையங்கோட்டை ஒரு மூதூரின் வரலாறு",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804601.us.archive.org/18/items/dli.rmrl.060938/dli.rmrl.060938.pdf",
-      "cover": "./img/ilakkiya_suvai_2.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 100 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0041609/ACL-TVT_00110_%E0%AE%AA%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_2019.pdf",
+      "cover": "./img/payankoottai.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "ஜீவாவின் பாடல்கள் - பதிப்பு 1",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia904502.us.archive.org/9/items/dli.rmrl.091799/dli.rmrl.091799.pdf",
-      "cover": "./img/jeevavin_paadalgal_1.jpeg",
-      "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "பொண்ணுரிமைக் கீதங்கள்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804506.us.archive.org/10/items/dli.rmrl.035771/dli.rmrl.035771.pdf",
-      "cover": "./img/pennurimai_geethangal.jpeg",
-      "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "சங்க இலக்கியத்தில் சமுதாய காட்சிகள்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZhdkJx9&tag=%E0%AE%AA%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88#book1/" 
+      },
+
+            {
+      "title": "நீராட்டும் ஆறாட்டும்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802300.us.archive.org/21/items/dli.rmrl.078787/dli.rmrl.078787.pdf",
-      "cover": "./img/sanga_ilakkiya_kaatchikal.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.4 MB",
+	  "url": "https://archive.org/download/20220901_20220901_0951/%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%86%E0%AE%B1%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/neerattum_aarattum.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "கலையும் இலக்கியமும்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_0951"
+      },
+
+      {
+      "title": "தொ பரமசிவன் நேர்காணல்கள்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804502.us.archive.org/31/items/dli.rmrl.071112/dli.rmrl.071112.pdf",
-      "cover": "./img/kalaiyum_ilakkiyamum.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.8 MB",
+	  "url": "https://archive.org/download/20220901_20220901_1001/%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D_%E0%AE%A8%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf",
+      "cover": "./img/thopa-interviews.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.071112"
-    },
-    {
-      "title": "மதமும் மனித வாழ்வும் - பதிப்பு 4",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1001"
+      },
+
+      {
+      "title": "இந்து தேசியம்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia904603.us.archive.org/5/items/dli.rmrl.008261/dli.rmrl.008261.pdf",
-      "cover": "./img/mathamum_manitha_vazvum_2.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 44.3 MB",
+	  "url": "https://archive.org/download/20220901_20220901_1119/%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81_%E0%AE%A4%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/hindu-desiyam.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "ஜீவாவின் பாடல்கள்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802301.us.archive.org/21/items/dli.rmrl.075008/dli.rmrl.075008.pdf",
-      "cover": "./img/jeevavum_paadalgal.jpeg",
-      "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "ஜீவாவின் புதுமைப் பெண் - பதிப்பு 4",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1119"
+      },
+
+      {
+      "title": "தெய்வம் என்பதோர்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804507.us.archive.org/18/items/dli.rmrl.007480/dli.rmrl.007480.pdf",
-      "cover": "./img/puthumai_pen_2.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 2.9 MB",
+	  "url": "https://archive.org/download/20220901_20220901_1021/%E0%AE%A4%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AE%AE%E0%AF%8D_%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%8B%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/deivam-enpathor.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "பாரதி புகழ் பரப்பியது கம்யூனிஸ்டுகளே",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1021"
+      },
+
+      {
+      "title": "நான் இந்துவல்ல நீங்கள்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802306.us.archive.org/3/items/dli.rmrl.089801/dli.rmrl.089801.pdf",
-      "cover": "./img/bharathi_pugaz_parappiyathu.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 4.8 MB",
+	  "url": "https://archive.org/download/20220901_20220901_1023/%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%B2%E0%AF%8D%E0%AE%B2_%E0%AE%A8%E0%AF%80%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%A4%E0%AF%8A.%20%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/nan-hindu-alla-nnengal.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "சோஷியலிஸத்தின் சரித்திரம்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1023"
+      },
+
+      {
+      "title": "இதுதான் பார்ப்பனியம்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802305.us.archive.org/12/items/dli.rmrl.009133/dli.rmrl.009133.pdf",
-      "cover": "./img/history_of_socialism.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 12.5 MB",
+	  "url": "https://archive.org/download/20220901_20220901_1131/%E0%AE%87%E0%AE%A4%E0%AF%81%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
+      "cover": "./img/ithu-thaan-parpaniyam.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "மதமும் மனித வாழ்வும் - பதிப்பு 1",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/20220901_20220901_1131"
+      },
+
+      {
+      "title": "நாள் மலர்கள்",
+      "author": "தொ. பரமசிவன்",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia902303.us.archive.org/14/items/dli.rmrl.52015/dli.rmrl.52015.pdf",
-      "cover": "./img/mathamum_manitha_vazvum.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 11 MB",
+	  "url": "https://archive.org/download/dli.rmrl.093803/dli.rmrl.093803.pdf",
+      "cover": "./img/naal-malargal.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "கம்பனும் பாரதியும்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
+      "archive":"https://archive.org/details/dli.rmrl.093803"
+      },
+
+      
+      {
+      "title": " மரபும் புதுமையும்",
+      "author": "தொ. பரமசிவன் ",
+      "authorUrl": "https://ta.wikipedia.org/s/wif",
       "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804605.us.archive.org/15/items/dli.rmrl.107245/dli.rmrl.107245.pdf",
-      "cover": "./img/kambanum_bharathiyum.jpeg",
+      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 13 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0041623/ACL-TVT_00113_%E0%AE%AE%E0%AE%B0%E0%AE%AA%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%AE%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D_2019.pdf",
+      "cover": "./img/marabum-puthumaiyam.jpg",
       "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "பாரதியை பற்றி ஜீவா - பதிப்பு 2",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia902300.us.archive.org/10/items/dli.rmrl.78560/dli.rmrl.78560.pdf",
-      "cover": "./img/jeeva_about_bharathi.jpeg",
-      "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "ஜீவாவின் புதுமைப் பெண்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia804507.us.archive.org/18/items/dli.rmrl.007480/dli.rmrl.007480.pdf",
-      "cover": "./img/puthumai_pen.jpeg",
-      "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "நான் நாத்தீகன் ஏன்?",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கவிதை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia802305.us.archive.org/24/items/dli.rmrl.090645/dli.rmrl.090645.pdf",
-      "cover": "./img/why_iam_athist.jpeg",
-      "tags": ["core"],
-      "archive":""
-    },
-    {
-      "title": "ஐக்கிய தமிழகம்",
-      "author": "ஜீவானந்தம்",
-      "authorUrl": "https://ta.wikipedia.org/wiki/%E0%AE%AA._%E0%AE%9C%E0%AF%80%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D",
-      "level": "கட்டுரை",
-      "info": "தோழர். ஜீவானந்தம் எழுத்துக்கள்",
-      "url": "https://ia902309.us.archive.org/29/items/dli.rmrl.050709/dli.rmrl.050709.pdf",
-      "cover": "./img/aikkiya_nagaram.jpeg",
-      "tags": ["core"],
-      "archive":""
-    }
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZhdkJp0&tag=%E0%AE%AE%E0%AE%B0%E0%AE%AA%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%AE%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D"
+      }
+
+      
   ]
 }
+
+
