@@ -1,230 +1,103 @@
 {
   "books": [
     {
-      "title": "அழகர் கோயில்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
+	"title": "முத்தாரம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
       "level": "கட்டுரை",
-      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 39.1 MB",
-	"url": "https://archive.org/download/dli.rmrl.123379/dli.rmrl.123379.pdf",
-	"cover": "./img/alagar_koil.jpg",
+      "info": " கலைஞர் கருணாநிதி படைப்புகள் - 13.2 MB",
+	"url": "https://archive.org/download/m.-kalaignar-karunanithi_202006/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D%20M.Kalaignar%20Karunanithi.pdf",
+	"cover": "./img/mutharam.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.123379"
+      "archive":"https://archive.org/details/m.-kalaignar-karunanithi_202006"
+    },
+
+
+    {
+	"title": "மாநில சுயாட்சித் தீர்மானம் 1974",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சொற்பொழிவு",
+      "info": " கலைஞர் கருணாநிதி படைப்புகள் - 13.9 MB",
+	"url": "https://archive.org/download/1974_20200715/%E0%AE%AE%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%B2%20%E0%AE%9A%E0%AF%81%E0%AE%AF%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A4%E0%AF%8D%20%E0%AE%A4%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AE%AE%E0%AF%8D%201974.pdf",
+	"cover": "./img/manila_suyatchi_theernaman.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/1974_20200715"
+    },
+
+
+      
+
+
+      {
+	"title": "ரோமாபுரிப் பாண்டியன்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+	  "level": "நாவல்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 92.3 MB",
+	"url": "https://archive.org/download/20200717_20200717_1740/%E0%AE%B0%E0%AF%87%E0%AE%BE%E0%AE%AE%E0%AE%BE%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%9E%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/romapuri_pandiyan.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/20200717_20200717_1740"
     },
 
 
 
-      {
-      "title": "தெய்வங்களும் சமூக மரபுகளும்",
-      "author": "தொ. பரமசிவன்",
-       "authorUrl": "https://ta.wikipedia.org/s/wif", 
-      "level": "கட்டுரை",
-      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 11 MB",
-      "url": "https://archive.org/download/dli.rmrl.127539/dli.rmrl.127539.pdf",
-      "cover": "./img/teyvankalum-camuka-marapukalum.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.127539"
-      },
-
-
 
       {
-      "title": "அறியப்படாத தமிழகம்",
-      "author": "தொ. பரமசிவன்",
-       "authorUrl": "https://ta.wikipedia.org/s/wif", 
-      "level": "கட்டுரை",
-      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 1.9 MB",
-      "url": "https://archive.org/download/20220901_20220901_1132/%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BE%E0%AE%A4_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/ariyapadatha_tamilagam.jpg",
+	"title": "ஒரே முத்தம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாடகம்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 41.7 MB",
+	"url": "https://archive.org/download/m.-kalaignar-karunanithi/%E0%AE%92%E0%AE%B0%E0%AF%87_%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D%20M.%20Kalaignar%20Karunanithi.pdf",
+	"cover": "./img/ore_mutham.jpg",
       "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1132"
-      },
-       
+      "archive":"https://archive.org/details/m.-kalaignar-karunanithi/"
+    },
 
-      {
-      "title": "விடுபூக்கள்",
-      "author": "தொ. பரமசிவன்",
-       "authorUrl": "https://ta.wikipedia.org/s/wif", 
-      "level": "கட்டுரை",
-      "info": "தொ. பரமசிவன்  எழுத்துக்கள் - 8.7 MB",
-      "url": "https://archive.org/download/dli.rmrl.123158/dli.rmrl.123158.pdf",
-      "cover": "./img/vidupookkal.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.123158"
-      },
-
-	  
-      
-      {
-      "title": "சமயங்களின் அரசியல்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 17.3 MB",
-	  "url": "https://archive.org/download/dli.rmrl.130048/dli.rmrl.130048.pdf",
-      "cover": "./img/samayangalin-arasiyal.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.130048"
-      },
-
-
-      {
-      "title": "பண்பாட்டு அசைவுகள்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 32 MB",
-	  "url": "https://archive.org/download/20220901_20220901_1031/%E0%AE%AA%E0%AE%A3%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%85%E0%AE%9A%E0%AF%88%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/panbattu-asaivugal.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1031"
-      },
-      
-
-      {
-      "title": "மானுட வாசிப்பு",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 58.3 MB",
-	  "url": "https://archive.org/download/20220901_20220901_1128/%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AF%81%E0%AE%9F_%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/maanuda_vassippu.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1128"
-      },
-
-      {
-      "title": "மஞ்சள் மகிமை",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.1 MB",
-	  "url": "https://archive.org/download/20220901_20220901_0947/%E0%AE%AE%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%B3%E0%AF%8D_%E0%AE%AE%E0%AE%95%E0%AE%BF%E0%AE%AE%E0%AF%88_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/manjal_magimai.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_0947"
-      },
-
-      {
-      "title": "இதுவே சனநாயகம்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.8 MB",
-	  "url": "https://archive.org/download/20220901_20220901_0956/%E0%AE%87%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AF%87_%E0%AE%9A%E0%AE%A9%E0%AE%A8%E0%AE%BE%E0%AE%AF%E0%AE%95%E0%AE%AE%E0%AF%8D%21_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/ithuve_sananayagam.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_0956"
-      },
-
-      {
-      "title": "பாளையங்கோட்டை ஒரு மூதூரின் வரலாறு",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 100 MB",
-	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0041609/ACL-TVT_00110_%E0%AE%AA%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_2019.pdf",
-      "cover": "./img/payankoottai.jpg",
-      "tags": ["core"],
-      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZhdkJx9&tag=%E0%AE%AA%E0%AE%BE%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88#book1/" 
-      },
-
-            {
-      "title": "நீராட்டும் ஆறாட்டும்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.4 MB",
-	  "url": "https://archive.org/download/20220901_20220901_0951/%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%86%E0%AE%B1%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/neerattum_aarattum.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_0951"
-      },
-
-      {
-      "title": "தொ பரமசிவன் நேர்காணல்கள்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 1.8 MB",
-	  "url": "https://archive.org/download/20220901_20220901_1001/%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D_%E0%AE%A8%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf",
-      "cover": "./img/thopa-interviews.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1001"
-      },
-
-      {
-      "title": "இந்து தேசியம்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 44.3 MB",
-	  "url": "https://archive.org/download/20220901_20220901_1119/%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81_%E0%AE%A4%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/hindu-desiyam.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1119"
-      },
-
-      {
-      "title": "தெய்வம் என்பதோர்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 2.9 MB",
-	  "url": "https://archive.org/download/20220901_20220901_1021/%E0%AE%A4%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AE%AE%E0%AF%8D_%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%8B%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/deivam-enpathor.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1021"
-      },
-
-      {
-      "title": "நான் இந்துவல்ல நீங்கள்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 4.8 MB",
-	  "url": "https://archive.org/download/20220901_20220901_1023/%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%B2%E0%AF%8D%E0%AE%B2_%E0%AE%A8%E0%AF%80%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%A4%E0%AF%8A.%20%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/nan-hindu-alla-nnengal.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1023"
-      },
-
-      {
-      "title": "இதுதான் பார்ப்பனியம்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 12.5 MB",
-	  "url": "https://archive.org/download/20220901_20220901_1131/%E0%AE%87%E0%AE%A4%E0%AF%81%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_%E0%AE%A4%E0%AF%8A_%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%A9%E0%AF%8D.pdf",
-      "cover": "./img/ithu-thaan-parpaniyam.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/20220901_20220901_1131"
-      },
-
-      {
-      "title": "நாள் மலர்கள்",
-      "author": "தொ. பரமசிவன்",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 11 MB",
-	  "url": "https://archive.org/download/dli.rmrl.093803/dli.rmrl.093803.pdf",
-      "cover": "./img/naal-malargal.jpg",
-      "tags": ["core"],
-      "archive":"https://archive.org/details/dli.rmrl.093803"
-      },
 
       
       {
-      "title": " மரபும் புதுமையும்",
-      "author": "தொ. பரமசிவன் ",
-      "authorUrl": "https://ta.wikipedia.org/s/wif",
-      "level": "கட்டுரை",
-      "info": "தோழர். தொ. பரமசிவன்  எழுத்துக்கள் - 13 MB",
-	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0041623/ACL-TVT_00113_%E0%AE%AE%E0%AE%B0%E0%AE%AA%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%AE%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D_2019.pdf",
-      "cover": "./img/marabum-puthumaiyam.jpg",
+	"title": "குறளோவியம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "இலக்கியம்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 6.8 MB",
+	"url": "https://archive.org/download/20200719_20200719_0453/%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%B3%E0%AF%87%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%9E%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/kuraloviyam.jpg",
       "tags": ["core"],
-      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZhdkJp0&tag=%E0%AE%AE%E0%AE%B0%E0%AE%AA%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%AE%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D"
-      }
+      "archive":"https://archive.org/details/20200719_20200719_0453"
+    },
+
+
+      {
+	"title": "ஒரு மரம் பூத்தது",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சிறுகதை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 10.1 MB",
+	"url": "https://archive.org/download/oru_maram_poothathu_kalaignar_20240823002930/%E0%AE%92%E0%AE%B0%E0%AF%81_%E0%AE%AE%E0%AE%B0%E0%AE%AE%E0%AF%8D_%E0%AE%AA%E0%AF%82%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A4%E0%AF%81_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%9E%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/oru_maram_poothathu.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/oru_maram_poothathu_kalaignar_20240823002930"
+    },
+
+
+      {
+	"title": "பூந்தோட்டம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சொற்பொழிவு",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	"url": "https://archive.org/download/poonthottam_kalaignar_20240823003024/%E0%AE%AA%E0%AF%82%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%9E%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/poonthottam.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/poonthottam_kalaignar_20240823003024/"
+    }
+
+
+      
 
       
   ]
