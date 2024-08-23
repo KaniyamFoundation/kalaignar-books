@@ -52,7 +52,7 @@
       "info": "கலைஞர் கருணாநிதி படைப்புகள் - 41.7 MB",
 	"url": "https://archive.org/download/m.-kalaignar-karunanithi/%E0%AE%92%E0%AE%B0%E0%AF%87_%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D%20M.%20Kalaignar%20Karunanithi.pdf",
 	"cover": "./img/ore_mutham.jpg",
-      "tags": ["core"],
+	  "tags": ["core"],
       "archive":"https://archive.org/details/m.-kalaignar-karunanithi/"
     },
 
@@ -94,13 +94,295 @@
 	"cover": "./img/poonthottam.jpg",
       "tags": ["core"],
       "archive":"https://archive.org/details/poonthottam_kalaignar_20240823003024/"
-    }
+      },
 
+      
+      {
+	"title": "நெஞ்சுக்கு நீதி 01",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "வாழ்க்கை வரலாறு",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 70 MB",
+	  "url": "https://archive.org/download/nenjukku_neethi-01_20240823002833/1_%E0%AE%A8%E0%AF%86%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AF%80%E0%AE%A4%E0%AE%BF_01_%E0%AE%AE%E0%AF%82_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/nenjukku_neethi-01.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/nenjukku_neethi-01_20240823002833"
+      },
+
+
+     {
+	"title": "நெஞ்சுக்கு நீதி 02",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "வாழ்க்கை வரலாறு",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 62 MB",
+	  "url": "https://archive.org/download/nenjukku_neethi-02_20240823003123/02_%E0%AE%A8%E0%AF%86%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%A8%E0%AF%80%E0%AE%A4%E0%AE%BF_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/nenjukku_neethi-02.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/nenjukku_neethi-02_20240823003123"
+     },
+
+
+      {
+	"title": "திருக்குறள் கலைஞர் உரை",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 4.6 MB",
+	  "url": "https://archive.org/download/thirukkural_kalaignar_urai_20240823002739/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%B3%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%9E%E0%AE%B0%E0%AF%8D_%E0%AE%89%E0%AE%B0%E0%AF%88_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%9E%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF_.pdf",
+	"cover": "./img/thirukkural-kalaignar-urai.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/thirukkural_kalaignar_urai_20240823002739"
+      },
+
+      {
+	"title": "தென்பாண்டிச் சிங்கம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாவல்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 28 MB",
+	  "url": "https://archive.org/download/then_pandi_singam_kalaignar_20240823003218/%E0%AE%A4%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%9E%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/then_pandi_singam.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/then_pandi_singam_kalaignar_20240823003218"
+      },
+
+
+      {
+	"title": "பொன்னர்_சங்கர்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாவல்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 47 MB",
+	  "url": "https://archive.org/download/ponnar_sankar_kalaignar_20240823003402/%E0%AE%AA%E0%AF%86%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%B0%E0%AF%8D_%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/ponnar_sankar.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/ponnar_sankar_kalaignar_20240823003402"
+      },
 
       
 
+      {
+	"title": "வான்கோழி",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+	  "level": "நாவல்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 29 MB",
+	  "url": "https://archive.org/download/vankozhi_kalaignar_20240823003313/%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%B4%E0%AE%BF_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF_%E0%AE%AE%E0%AF%87%E0%AE%95%E0%AE%B2%E0%AE%BE_%E0%AE%AE%E0%AE%BE%E0%AE%A4%E0%AE%87%E0%AE%A4%E0%AE%B4%E0%AF%8D.pdf",
+	"cover": "./img/vankozhi.jpg",
+      "tags": ["core"],
+      "archive":"https://archive.org/details/vankozhi_kalaignar_20240823003313/"
+      },
+
+
+
+      {
+	"title": "நச்சுக் கோப்பை",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாடகம்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 18 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0034906/ACL-TDD_00314_%E0%AE%A8%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%88.pdf",
+	"cover": "./img/nachu_koppai.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZl7jZx6&tag=%E0%AE%A8%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%88#book1/3"
+      },
+
       
+
+      {
+	"title": "உரிமைக் குரல்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சட்டமன்ற உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள்",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0034414/ACL-CPL_01739_%E0%AE%89%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AE%B2%E0%AF%8D.pdf",
+	"cover": "./img/urimai_kural.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZl7kut7&tag=%E0%AE%89%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AE%B2%E0%AF%8D#book1/"
+      },
+
+      
+
+      {
+	"title": "நம்பிக்கை வாக்கு",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சட்டமன்ற உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள்",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0034438/ACL-CPL_01746_%E0%AE%A8%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81.pdf",
+	"cover": "./img/nambikkai_vakku.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZl7kul2&tag=%E0%AE%A8%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88%20%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81#book1/"
+      },
+
+      {
+	"title": "செம்மொழி வரலாற்றில் சில செப்பேடுகள்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "கட்டுரைகள்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 38 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0002611_%E0%AE%9A%E0%AF%86%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AE%BF%E0%AE%B2_%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.pdf",
+	"cover": "./img/semmozhi_varalatril.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZp6lZty&tag=%E0%AE%9A%E0%AF%86%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%20%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%B2%E0%AF%8D%20%E0%AE%9A%E0%AE%BF%E0%AE%B2%20%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D#book1/"
+      },
+
+
+      {
+	"title": "யார் பொறுப்பு?",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சட்டமன்ற உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள்" ,
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0034442/ACL-CPL_01748_%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D_%E0%AE%AA%E0%AF%8A%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81.pdf",
+	"cover": "./img/yaar_poruppu.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZl7kuhe&tag=%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%20%E0%AE%AA%E0%AF%8A%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81?#book1/"
+      },
+
+
+      {
+	"title": "நமது விளக்கம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சட்டமன்ற உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள்",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0034398/ACL-CPL_01732_%E0%AE%A8%E0%AE%AE%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D.pdf",
+	"cover": "./img/namathu_vilakkam.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZl7l0I2&tag=%E0%AE%A8%E0%AE%AE%E0%AE%A4%E0%AF%81%20%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D#book1/"
+      },
+      
+
+
+
+      {
+	"title": "நமது கோரிக்கை",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சட்டமன்ற உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள்",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0034287/ACL-CPL_01716_%E0%AE%A8%E0%AE%AE%E0%AE%A4%E0%AF%81_%E0%AE%95%E0%AF%8B%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%AE%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%A4%E0%AE%BF.pdf",
+	"cover": "./img/namathu_korikkai.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZl7lJM1&tag=%E0%AE%A8%E0%AE%AE%E0%AE%A4%E0%AF%81%20%E0%AE%95%E0%AF%8B%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88#book1/"
+      },
+
+
+      {
+	"title": "நமது நிலை",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "சட்டமன்ற உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0034393/ACL-CPL_01726_%E0%AE%A8%E0%AE%AE%E0%AE%A4%E0%AF%81_%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88.pdf",
+	"cover": "./img/namathu_nilai.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZl7l0I0&tag=%E0%AE%A8%E0%AE%AE%E0%AE%A4%E0%AF%81%20%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88#book1/"
+      },
+
+
+
+      {
+	"title": "புராணப்போதை",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "உரை",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 24 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0024505/TVA_BOK_0024505_%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88.pdf",
+	"cover": "./img/purana_pothai.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZp7kZx3&tag=%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88#book1/"
+      },
+
+
+
+      {
+	"title": "இதய பேரிகை",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "கட்டுரைகள்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0016120_%E0%AE%87%E0%AE%A4%E0%AE%AF_%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%88.pdf",
+	"cover": "./img/idhaya_perigai.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt6lZp8&tag=%E0%AE%87%E0%AE%A4%E0%AE%AF%20%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%88#book1/"
+      },
+
+
+
+      {
+	"title": "சிலப்பதிகாரம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாடகம்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0016473_%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D.pdf",
+	"cover": "./img/silapathikaram.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt6kuQ0&tag=%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D#book1/"
+      },
+
+
+
+      {
+	"title": "திரும்பிப்பார்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "கதை வசனம்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0014652_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D.pdf",
+	"cover": "./img/thirumbi_paar.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt7kJYe&tag=%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D#book1/"
+      },
+      
+
+
+      {
+	"title": "கிழவன் கனவு",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாவல்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0014165_%E0%AE%95%E0%AE%BF%E0%AE%B4%E0%AE%B5%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AE%A9%E0%AE%B5%E0%AF%81.pdf",
+	"cover": "./img/kizhavan_kanavu.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt7lZU3&tag=%E0%AE%95%E0%AE%BF%E0%AE%B4%E0%AE%B5%E0%AE%A9%E0%AF%8D%20%E0%AE%95%E0%AE%A9%E0%AE%B5%E0%AF%81#book1/"
+      },
+
+
+
+      {
+	"title": "ஒரே முத்தம்",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாடகம்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0012542_%E0%AE%92%E0%AE%B0%E0%AF%87_%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D.pdf",
+	"cover": "./img/ore_mutham.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZtekZhe&tag=%E0%AE%92%E0%AE%B0%E0%AF%87%20%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D#book1/"
+      },
+
+
+
+
+      {
+	"title": "மனோகரா",
+      "author": "கலைஞர். மு.கருணாநிதி",
+      "authorUrl": "https://ta.wikipedia.org/s/iu",
+      "level": "நாடகம்",
+      "info": "கலைஞர் கருணாநிதி படைப்புகள் - 2.4 MB",
+	  "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010102_%E0%AE%AE%E0%AE%A9%E0%AF%8B%E0%AE%95%E0%AE%B0%E0%AE%BE.pdf",
+	"cover": "./img/manogara.jpg",
+      "tags": ["core"],
+      "archive":"https://www.tamildigitallibrary.in/book-detail?id=jZY9lup2kZl6TuXGlZQdjZt8lZxe&tag=%E0%AE%AE%E0%AE%A9%E0%AF%8B%E0%AE%95%E0%AE%B0%E0%AE%BE#book1/"
+      },
+
+     
+            
   ]
 }
-
 
